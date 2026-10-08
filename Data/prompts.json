@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Title": "YouTube Video Prompt",
+    "Content": "Create a cinematic YouTube video about a busy Indian street food shop.",
+    "Category": "Video"
+  },
+  {
+    "Id": 2,
+    "Title": "Coding Prompt",
+    "Content": "Explain this code in simple English with a real-world example Good.",
+    "Category": "Coding"
+  },
+  {
+    "Id": 3,
+    "Title": "Image Generation Prompt",
+    "Content": "Create a realistic cinematic image with detailed lighting and composition.",
+    "Category": "Image"
+  }
+]
